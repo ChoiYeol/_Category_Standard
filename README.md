@@ -8,7 +8,7 @@
 Algorithm -
 코딩테스트나 알고리즘 풀이에 관한 글입니다.
 
-Project #
+Project # -
 개발 프로젝트에 관한 글입니다.
 
 PartTest
